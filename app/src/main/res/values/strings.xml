@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuthVK</string>
+    <integer name="com_vk_sdk_AppId">7004231</integer>
+    <string name="city">Город: </string>
+    <string name="sex_male">Пол: М</string>
+    <string name="sex_female">Пол: Ж</string>
+    <string name="friend">Друзья:</string>
+    <string name="exit">Выйти</string>
+    <string name="login">Авторизоваться</string>
+    <string name="login_main">Авторизуйтесь</string>
+    <string name="is_login">Вы уже авторизованы!</string>
+    <string name="exit_access">Вы успешно вышли!</string>
+    <string name="no_login">Вы не авторизованы!</string>
+    <string name="no_access_login">Нет доступа к данным!</string>
+</resources>
